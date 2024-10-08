@@ -1,0 +1,38 @@
+CRM Application for Laptop Rentals
+
+Project Description:
+
+The CRM Application for Laptop Rentals is designed to streamline the process ofrenting
+laptops to customers. The application utilizes Salesforce's robust CRMcapabilities to
+enhance customer interactions, optimize store operations, and increaseoverall
+effi ciency. A key feature of the application is the integration of email communication,
+enabling effective engagement with potential and existing customers.
+
+Features and Functionalities
+
+●Laptop Inventory Management: Effi ciently track and manage the available
+inventory of laptops for rent, ensuring smooth operations.
+
+●Customer Management: Maintain detailed records of customers, including their
+interactions and rental history, to streamline service management.
+
+●Laptop Booking System: Facilitate the complete laptop booking lifecycle, from
+availability checks to confi rmation, providing a seamless rental experience.
+
+●Automated Billing System: Simplify and automate the billing and payment
+processes, ensuring accuracy and timely transactions for rentals.
+
+●User Roles & Access Control: Defi ne distinct roles like Owner and Agent,
+providing different levels of access and privileges within the application for better
+security and control.
+
+●Data Validation Rules: Enforce validation rules to maintain the accuracy of
+essential data fi elds like phone numbers and emails, ensuring data reliability.
+
+●Automation with Flows & Apex: Leverage Salesforce Flows and Apex triggers to
+automate critical tasks such as laptop distribution, improving operational
+effi ciency.
+
+●Reports & Dashboards:Generate insightful reports and visual dashboards to
+provide actionable data, enabling informed decision-making and business
+optimization.
